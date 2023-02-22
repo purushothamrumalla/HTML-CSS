@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Purushotham'S CV</title>
+    </head>
+    <body>
+        M Chanikya
+        <p><strong>Software Engineer</strong></p>
+        <img src="https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-370-456322-512.png"/>
+        <hr>
+        <h2><i> Summary</i></h2>
+        <p>Iam a java programm lover.... I used to practicejava in my free time on sololearn </p>
+        <h2><i>Experience </i></h2>
+        <ul>
+        <li>10th class-92% <br>
+            <p>Studied at Rayalpeta high school</p>
+        </li>
+        <li>12th class-98% <br>
+        <p>Studied at Mother Theresa Junior Collage,palamaner </p> </li>
+        <li>Btech-79% <br>
+            <p>Stduied at Mother Theresa Instituion of Engineering and Technology..  </p>
+        </li> 
+    </ul>
+            <h2><i>Skill</i></h2>
+            <table border="1">
+            <tr>
+                <td>Technologies</td>
+           <td>Python</td>
+           <td>Java</td>
+        <td>HTML</td>
+           <td>C</td>
+           <td>ML</td>
+        </tr>
+        <tr>
+            <td>Skill</td>
+            <td> Core knwoledge</td>
+            <td>Basic knwoledge</td>
+            <td>thearitcial knwoledge</td>
+            <td>Basic knwoledge</td>
+            <td>Learning</td>
+        </tr>
+            </table>
+
+            <h2><i>Contacts</i></h2>
+            <a href="purusxxxxx@gmail.com">GmailLink</a><br>
+            <a href="9666xxxxxxx">Contact Number</a><br>
+            <a href="https://github.com/purushothamrumalla">Github</a>
+
+            <h2><i>Write me a message</i></h2>
+            <form>
+                <input type="text" placeholder="Name"/><br>
+                <input type="text" placeholder="Email"><br>
+                <textarea placeholder="Message"></textarea><br>
+                <input type="submit" value="SEND">
+            </form>
+      
+        
+    </body>
+</html>
