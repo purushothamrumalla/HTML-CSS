@@ -1,0 +1,11 @@
+<html><head><title>Makinng a joke</title>
+    </head>
+    <body bgcolor="#D0D3D4 " >
+        
+        <center>
+        <p style="background-color: rgb(56, 236, 20); padding: 5;  width: 1300; height: 50;"><font size="7">Do you wanna listen a joke??</p>
+            <img width="700" src="C:\Users\Dell\Downloads\23.gif"><br>
+            <p></p>
+               <a href="https://www.youtube.com/watch?v=DnpbWiXVw5k"> <button style="background-color: aquamarine; padding: 5;  width: 700; height: 50;">Get</button></a>
+            </center></body>
+</html>
