@@ -1,0 +1,104 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <p>    </p>
+    <body style="background-color: rgba(128, 0, 255, 0.322);">
+        <style>
+            body {
+              font-family: "Lato", sans-serif;
+            }
+            
+            .sidenav {
+              height: 100%;
+              width: 0;
+              position: fixed;
+              z-index: 1;
+              top: 0;
+              left: 0;
+              background-color: #111;
+              overflow-x: hidden;
+              transition: 0.5s;
+              padding-top: 60px;
+            }
+            
+            .sidenav a {
+              padding: 8px 8px 8px 32px;
+              text-decoration: none;
+              font-size: 25px;
+              color: #818181;
+              display: block;
+              transition: 0.3s;
+            }
+            
+            .sidenav a:hover {
+              color: #f1f1f1;
+            }
+            
+            .sidenav .closebtn {
+              position: absolute;
+              top: 0;
+              right: 25px;
+              font-size: 36px;
+              margin-left: 50px;
+            }
+            
+            @media screen and (max-height: 450px) {
+              .sidenav {padding-top: 15px;}
+              .sidenav a {font-size: 18px;}
+            }
+            </style>
+            </head>
+            <body>
+           
+            <div id="mySidenav" class="sidenav">
+              <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+              <a href="#">Home</a>
+              <a href="#">About Us</a>
+              <a href="#">Our Works</a>
+              <a href="#">Clients</a>
+              <a href="#">Our blogs</a>
+              <a href="#">ContactUs</a>
+            </div>
+            
+            <table border="0" width="100%">
+                <tr>
+                    <th> <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; MegaOne</span></th>
+                    <th><a href="home.html"><font size=5>Home</th></a>
+                        <th><a href="About.html"><font size=5>About Us</a></th>
+                            <th><a href="Reg.html"><font size=5>Our Works</th></a>
+                        <th><a href="index.html"><font size=5>Clinets</a></th>
+                            <th><a href="index.html"><font size=5>Our Blogs</a></th>
+                            <th><a href="index.html"><font size=5>Contact Us</a></th>
+                                <th><a href="index.html"><font size=5>Get a quote</a></th>
+                </tr>
+            </table>
+            <script>
+            function openNav() {
+              document.getElementById("mySidenav").style.width = "250px";
+            }
+            
+            function closeNav() {
+              document.getElementById("mySidenav").style.width = "0";
+            }
+            </script>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> 
+
+<img align="left" src="C:\Users\Dell\Downloads\ve.png" width="300" height="300" >  
+            <p>  </p>
+            <p ><center><font size=8>Creative<br></font></center></p>
+            <p ><center><font size=8> Digital Agency<br></font></center></p>
+            <p><center>Lorem ipsum is simply dummy text of the printing and typesetting. Lorem <br>Ipsum has been the
+                industry’s standard dummy. Lorem Ipsum has been the<br> industry’s standard dummy.</center></p>
+            
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                <b><hr></b>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> 
+                
+           <p>We are megaone company</p><br>
+           <img align="right" src="C:\Users\Dell\Downloads\vector.png" width="500" height="500" >   
+           <p><b><font size=6>We are making ideas<br> better for everyone</font></b></p>
+            <p>There are many variations of passages of Lorem Ipsum available, but the <br>majority have suffered alteration in some form, by injected humour, or <br>randomised words which don't look even slightly believable. If you are <br>going to use a passage of Lorem Ipsum.</p>
+    </body>
+</html>
