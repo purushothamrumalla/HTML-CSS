@@ -1,0 +1,36 @@
+<html>
+    <marquee>Mother theresa student details</marquee>
+    <body>
+        <body style="background-color:rgb(191, 230, 176);">
+  
+    <h1 style="color: darkorchid;"><center>My personal website</center></h1>
+ 
+    <h2 style="color: brown;">Name:R Purushotham<br></h2>
+
+    <h2 style="color: deeppink;">Department Name:Computer science and enginnerinng<br></h2>
+
+<h2 style="color: rgb(255, 0, 187);">Collage Name: Mother theresa Institute of enginnerinng and technology</h2>
+</h2>
+<center> <h2 style="font-size: 50;">About me</h2></center>
+    
+    
+    
+    
+
+    <p>  <hr>     Onthis website you are going to know the basic details of myself.My name is chanikya and iam studying 3<sup>rd</sup> year at MTIET.My department specialization is CSE. </p><hr>
+    
+    <hr><p> I have a lot to say about me ,if i say this web content might cross its word limit.after about me:</p>
+
+<p> Iam really happy to study Btech in this collage </p><hr>
+<h3 style="color: red;">Adress of collage</h3>
+<h3 style="color:rgb(37, 35, 32);">place:palamaner<br>district:chittoor<br>state:Ap</h3>
+<p style="font-size: 20;">NOTE:<br>
+    Be a best one by joining this collage</p>
+    <img src="C:\Users\Dell\Downloads\IMG_20230210_133817.jpg" alt="Flowers in Chania" height="400" width="400">
+    <p style="font-size: 20;">Collage Image</p>
+    <img src="file:///C:/Users/Dell/Downloads/28809_mo2.webp" alt="Flowers in Chania" height="400" width="400">
+
+<p style="color: blue;">Advice:<br>Don't fill your eyes with your tears becouse it will hide a another better oppurtunity in fronnt of you</p>
+
+</body>
+</html>
