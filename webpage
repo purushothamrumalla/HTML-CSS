@@ -1,0 +1,36 @@
+<!--Doctype Html
+<html>
+  <title>My Personal Website</title>
+  <head></head>
+<style>
+.header{
+background-color:#F1F1F1;
+text-align-center
+<style>
+  <body style="background-color:#ffff99">
+<script>
+console.log(5+6);
+}
+    <h1 style="color:#cc0000;background-color:green"><center>MY PERSONAL WEBSITE</center></h1>
+    <h2 style="color:#0066ff">R Purushotham Reddy</h2>
+    <h3 style="color:green;font-family:courier">Computer Science Engineering</h3>
+    <h4 style="color:green;font-family:courier">Mother Theresa Institute Of Engineering and Technology</h4>
+    <h2 style="font-size:300%"><u><center>About Me</center></u></h2> <hr>
+    <p>On this <b>website</b> you are going to know tha <strong>Basic details</strong> of <i>My self</i>.My name <em><b>R Purushotham Reddy</em></b> and I'm studyint 3<sup>rd</sup> year at mother theresa college of engineering.My department of speciliazion is CSE.</p>
+    <p>I have a lot to say about me,if i say this web content might cross its word limit.</b><br>
+    <p> I'm really happy to study this B.E(Bachelor of Engineering) course in this prestigious institution</p>
+    <p>Here comes the address of my college</p><address>Mother Theresa Institute Of Engineering And Techmology, <br>Palamner,<br>Chittoor,<br>AndhraPradesh.</address> 
+      <hr><p><center>"My Life....My Rules...."</center></p>
+<p>NOTE:Prefer this College for your Bright college</p>
+<img src="C:\Users\purus\OneDrive\Desktop\hh.jpg" alt="Handsome me" style="width:400px;height:400px;">
+ <img src="https://www.targetadmission.com/img/colleges/optimized/600/IMG-1-4066143.jpg" alt="My college" style="width:400px;height:400px;">
+    
+
+
+</body>
+</html>
+.header{
+background-color:#F1F1F1;
+text-align-center
+padding 20px;
+}
