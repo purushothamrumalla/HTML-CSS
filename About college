@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>
+            Mother Theresa institute of engineering and technology
+        </title>
+        <link rel="Stylesheet"   type="text/css" href="democss.css"/>
+    </head>
+    <body>
+        <h1 id="h">MTIET</h1>
+        <p id="p"> The MTIET programme is designed to facilitate the confluence of knowledge, aptitude and execution skills.Our up-to-date curriculum and innovative teaching strategies are fine designed to ever. Changing demands of the corporate sector and employment market at large.Our students will be empowered to cope with real world requirements through structured interactions with corporate organizations mentoring project work and input from leading professionals.We emphasize on all-round development of our students. A unique healthy program with attitude training moral values and cultural interactions are incorporated into the learning process at MTIET.
+        </p>
+        <img id="img" src="C:\Users\Dell\Downloads\mtiet.jpg"><br>
+        <p>
+        </p>
+        <p></p>
+        <a href="https://www.google.com/search?q=mother+theresa+college+palamaner&rlz=1C1OPNX_enIN973IN973&oq=mo&aqs=chrome.0.35i39i355j46i39i175i199j69i57j46i10i67j46i67i175i199j69i61l2j69i60.1169j0j7&sourceid=chrome&ie=UTF-8"> <button style="height: 50; width: 200;">Submit  </button></center>
+    </body>
+</html>
