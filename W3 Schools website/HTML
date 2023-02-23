@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,intitial-scale=1.0">
+        <title>W3 Schools</title> 
+        <link rel="stylesheet" href="next.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <img class="img" src="https://1.bp.blogspot.com/-RnQrZtpVCNY/YRXDHvqXI8I/AAAAAAAAAno/GPhjuz7uMEY_nXBOAK8ykxGTBdcp6cr8QCLcBGAsYHQ/s1200/W3Schools_logo.svg.png">
+        <div class="topnav">
+             
+<a href="tutorials.html" style="background-color:white;">Tutorials</a>
+            <a href="#" style="background-color:white;">References</a>
+            <a href="#" style="background-color:white;">Exercises</a>
+            <a href="#" style="background-color:white;">Sing Up</a>
+            <a href="#" style="background-color:white">Bootcamp</a>
+
+             
+          </div><br>
+          <div class="topnav">
+            <a href="#"><HTML></HTML></a>
+            <a href="#">CSS</a>
+            <a href="#">JS</a>
+            <a href="#">SQL</a>
+            <a href="#">PYTHON</a>
+            <a href="#">JAVA</a>
+            <a href="#">PHP</a>
+            <a href="#">C</a>
+            <a href="#">C++</a>
+          </div>
+          <div class="two">
+          <h1 style="font-family:Arial, Helvetica, sans-serif; text-shadow: 4px 4px 4px #dc7878;">Learn to Code</h1>
+          <h2 style="color:rgb(60, 21, 217);">With the world's Largest web developer site.</h2><br><br>
+          <center><div class="search" style="align-items: center;">
+            <form action="#">
+                <input type="text"
+                    placeholder=" Search our tutorials,e.g:HTML"
+                    name="search">
+            
+                    <i class="fa fa-search"
+                        style="font-size: 18px;">
+                    </i>
+                
+            </form>
+        </div>
+    </center><br><br>
+          <a href="#" style="color:white;font-size: 20px;">Not sure where to begin?</a>
+          </div>
+          <div class="three">
+            <h1 style="font-size:100px;color: black;"><b>HTML</b></h1>
+            <h3  style="color:black;">The language for building web pages</h3><br><br>
+            <button class="button" style="color:white;background-color: green;"><a href="#" style="text-decoration: none;">Learn HTML</a></button><br><br>
+            <button class="button" style="color:white;background-color:black;"><a href="#" style="text-decoration: none;">HTML References</a></button><br><br>
+            <button class="button" style="color:black;background-color:pink"><a href="#" style="text-decoration: none;">Get Certified</a></button><br><br>
+          </div>
+          <div class="three" style="background-color:rgb(235, 184, 122)">
+            <h1 style="font-size:100px;color: black;"><b>CSS</b></h1>
+            <h3  style="color:black;">The language for styling web pages</h3><br><br>
+            <button class="button" style="color:white;background-color: green;"><a href="#" style="text-decoration: none;">Learn CSS</a></button><br><br>
+            <button class="button" style="color:white;background-color:black;"><a href="#" style="text-decoration: none;">CSS References</a></button><br><br>
+            <button class="button" style="color:black;background-color:pink"><a href="#" style="text-decoration: none;">Get Certified</a></button><br><br>
+          </div>
+          <div class="three" style="background-color:lemonchiffon;">
+            <h1 style="font-size:100px;color: black;"><b>JavaScipt</b></h1>
+            <h3  style="color:black;">The language for programming web pages</h3><br><br>
+            <button class="button" style="color:white;background-color: green;"><a href="#" style="text-decoration: none;">Learn JavaScipt</a></button><br><br>
+            <button class="button" style="color:white;background-color:black;"><a href="#" style="text-decoration: none;">JavaScipt References</a></button><br><br>
+            <button class="button" style="color:black;background-color:pink"><a href="#" style="text-decoration: none;">Get Certified</a></button><br><br>
+          </div>
+          <div class="three" style="background-color:cyan;" >
+            <h1 style="font-size:100px;color: black;"><b>Python</b></h1>
+            <h3  style="color:black;">The Popular Programming language</h3><br><br>
+            <button class="button" style="color:white;background-color: green;"><a href="#" style="text-decoration: none;">Learn Python</a></button><br><br>
+            <button class="button" style="color:white;background-color:black;"><a href="#" style="text-decoration: none;">Python References</a></button><br><br>
+            <button class="button" style="color:black;background-color:pink"><a href="#" style="text-decoration: none;">Get Certified</a></button><br><br>
+          </div>
+          <div class="three" style="background-color: darkgray;">
+            <h1 style="font-size:100px;color: black;"><b>SQL</b></h1>
+            <h3  style="color:black;">The language for building web pages</h3><br><br>
+            <button class="button" style="color:white;background-color: green;"><a href="#" style="text-decoration: none;">Learn SQL</a></button><br><br>
+            <button class="button" style="color:white;background-color:black;"><a href="#" style="text-decoration: none;">Sql References</a></button><br><br>
+            <button class="button" style="color:black;background-color:pink"><a href="#" style="text-decoration: none;">Get Certified</a></button><br><br>
+          </div>
+          <div class="grid-container">
+          <div class="grid-item">
+            <h1 style="font-size:100px;color: black;"><b>PHP</b></h1>
+            <h3  style="color:black;">A web Server Programming Language</h3><br><br>
+            <button class="button" style="color:white;background-color: black;"><a href="#" style="text-decoration: none;">Learn PHP</a></button><br><br>
+         </div>
+            <div class="grid-item" style="background-color:coral;">
+                <h1 style="font-size:100px;color: black;"><b>jQuery</b></h1>
+                <h3  style="color:black;">A JS library for developing web pages</h3><br><br>
+                <button class="button" style="color:white;background-color: black;"><a href="#" style="text-decoration: none;">Learn jQuery</a></button><br><br>
+                </div><br>
+
+                <div class="grid-item" style="background-color:cornsilk;margin-left: 100px;">
+                    <h1 style="font-size:100px;color: black;"><b>Java</b></h1>
+                    <h3  style="color:black;">The Programming language</h3><br><br>
+                    <button class="button" style="color:white;background-color: black;"><a href="#" style="text-decoration: none;">Learn Java</a></button><br><br>
+                    </div>
+                    <div class="grid-item"  style="background-color: pink;">
+                        <h1 style="font-size:100px;color: black;"><b>C++</b></h1>
+                        <h3  style="color:black;">The language for building web pages</h3><br><br>
+                        <button class="button" style="color:white;background-color: black;"><a href="#" style="text-decoration: none;">Learn C++</a></button>
+                        </div>
+                        </div>          
+    </body>
+</html>
